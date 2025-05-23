@@ -1,2 +1,2 @@
-# machikawarei.github.io
+# reimachikawa.github.io
 Personal website
